@@ -145,10 +145,7 @@ def q10(msg):
 
 def q11(txt):
     txtq11 = txt.split(': ')
-    print(txtq11)
     code11 = txtq11[2]
-    print(code11)
-    
     for decalage in range(1, 26):
         # decodage de chiffrage cesar pour tout les decalages
         decoded = ''.join(

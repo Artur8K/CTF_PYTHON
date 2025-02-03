@@ -47,6 +47,6 @@ def netcat(host, port, msg):
                 
 # donnes de connexion
 host = "148.113.42.34"  # Adres IP de serveur
-port = 17021         # port de serveur
+port = 37782         # port de serveur
 
 netcat(host, port, msg)

@@ -83,7 +83,7 @@ colors = {
     (0, 255, 0) : 'LIME',
     (50, 205, 50) : 'LIMEGREEN',
     (250, 240, 230) : 'LINEN',
-    (255, 0, 255) : 'MAGENTA',
+    (255, 0, 255) : 'FUCHSIA',
     (128, 0, 0) : 'MAROON',
     (102, 205, 170) : 'MEDIUMAQUAMARINE',
     (0, 0, 205) : 'MEDIUMBLUE',
