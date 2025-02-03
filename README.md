@@ -2,5 +2,5 @@
 
 Code prepare pour trouver les 12 flags dans CTF python.
 
-## Author:
-Artur Kurza 3SI4
+## AUTHOR 
+Artur KURZA 3SI4
